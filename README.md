@@ -1,9 +1,8 @@
 # Hello, World! 👋
 
 <div align="center">
-  <img src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" alt="Banner">
+  <img src="https://media.istockphoto.com/id/1219473617/vector/young-male-character-writing-code-on-a-desktop-computer-working-from-home-millennials-at-work.jpg?s=612x612&w=0&k=20&c=9KrYfX8M5lFqpUN2y5Pklac_XebWqnI0bmDkMB6NLhU=" alt="Banner">
 </div>
-![Banner](https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg)
 
 ## About Me 🧑‍💻
 Welcome to my GitHub playground 🚀, I'm Pranav Mishra, a tech enthusiast with a passion for turning ideas into reality through code. I am eager to learn new skills and technologies and to make a positive impact in the rapidly-evolving field of computer science. Join the Collaboration 🌐
