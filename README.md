@@ -2,23 +2,20 @@
 
 ![Banner](https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg)
 
-I'm [Your Name], a tech enthusiast with a passion for turning ideas into reality through code. Welcome to my GitHub playground, where I explore, collaborate, and build fascinating projects that push the boundaries of technology. 🚀
+Welcome to my GitHub playground 🚀, I'm Pranav Mishra, a tech enthusiast with a passion for turning ideas into reality through code. I am eager to learn new skills and technologies and to make a positive impact in the rapidly-evolving field of computer science. Join the Collaboration 🌐
 
 ## About Me 🧑‍💻
 
-- 🌐 Full-stack developer, bridging the gap between front-end aesthetics and back-end functionality.
-- 🤖 AI/ML explorer, seeking insights from data and training models to make informed decisions.
-- 🎨 NFT and DApp enthusiast, diving into the world of decentralized innovation.
-- 🔒 Cybersecurity advocate, ensuring that code remains secure and resilient against threats.
-- 🐍 Python and Java aficionado, crafting scalable and efficient solutions for diverse challenges.
-- 📱 Android Studio & API wizard, building delightful mobile experiences for users.
+- 🌐 Full-stack developer: Bridging the gap between front-end aesthetics and back-end functionality.
+- 🤖 AI/ML explorer: Seeking insights from data and training models to make informed decisions.
+- 🎨 NFT and DApp enthusiast: Diving into the world of decentralized innovation.
+- 🔒 Cybersecurity advocate: Ensuring that code remains secure and resilient against threats.
+- 🐍 Python and Java aficionado: Crafting scalable and efficient solutions for diverse challenges.
+- 📱 Android Studio & API wizard: Building delightful mobile experiences for users.
 
-## My Projects 🚧
+##  Status 🚧
 
-- **Project 1:** [Project Name](https://github.com/your-username/project1) - Short description of the project.
-- **Project 2:** [Project Name](https://github.com/your-username/project2) - Short description of the project.
-- **Project 3:** [Project Name](https://github.com/your-username/project3) - Short description of the project.
-- ...
+- 
 
 ## Collaboration & Contributions 🤝
 
@@ -34,17 +31,14 @@ Let's connect and embark on a journey of tech exploration and innovation! Feel f
 
 ## Tech Stack 💻
 
-- **Languages:** Python, Java, JavaScript, HTML/CSS
-- **Frameworks:** Flask, Spring Boot, React
-- **Tools:** Git, Docker, Android Studio, Jupyter
-- **Databases:** MySQL, MongoDB
-- **AI/ML:** TensorFlow, Scikit-learn
-- **Blockchain:** Solidity, Web3.js
+- **Programming Languages:** Python, C, Java, Kotlin, Solidity, JavaScript, HTML/CSS, Motoko
+- **Frameworks:** Frontend - React, EJS, and Backend - Express, Node.js
+- **Database Management:** MySQL, MongoDB, Mongoose
+- **Tools/IDEs:** Git, GitHub, VSCode, Burp Suite, Version Control
+
 
 ## GitHub Stats 📈
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-
-*Note: Replace "your-username" and the URLs with your actual information.*
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavMishra28&show_icons=true&theme=dark)
 
 Thank you for visiting my GitHub profile! Happy coding! 🚀
