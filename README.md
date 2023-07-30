@@ -1,21 +1,17 @@
 # Hello, World! 👋
 
+<div align="center">
+  <img src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" alt="Banner">
+</div>
 ![Banner](https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg)
 
+## About Me 🧑‍💻
 Welcome to my GitHub playground 🚀, I'm Pranav Mishra, a tech enthusiast with a passion for turning ideas into reality through code. I am eager to learn new skills and technologies and to make a positive impact in the rapidly-evolving field of computer science. Join the Collaboration 🌐
 
-## About Me 🧑‍💻
+## Status 🚧
 
-- 🌐 Full-stack developer: Bridging the gap between front-end aesthetics and back-end functionality.
-- 🤖 AI/ML explorer: Seeking insights from data and training models to make informed decisions.
-- 🎨 NFT and DApp enthusiast: Diving into the world of decentralized innovation.
-- 🔒 Cybersecurity advocate: Ensuring that code remains secure and resilient against threats.
-- 🐍 Python and Java aficionado: Crafting scalable and efficient solutions for diverse challenges.
-- 📱 Android Studio & API wizard: Building delightful mobile experiences for users.
-
-##  Status 🚧
-
-- 
+- Working on an Algorithmic Trading Model targetting Standard & Poor's 500, Dow Jones Industrial Average, and Nasdaq Composite.
+- Building a Trading Bot using Python
 
 ## Collaboration & Contributions 🤝
 
@@ -23,9 +19,8 @@ I believe in the power of collaboration and open-source initiatives. Feel free t
 
 ## Get in Touch 📬
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
-- 🌐 Website: [Your Website](https://www.your-website.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pm28/)
+- ✉️ Email: [youremail@gmail.com](mishrapranav82@gmail.com)
 
 Let's connect and embark on a journey of tech exploration and innovation! Feel free to drop me a message, and I'll be happy to chat and collaborate. 😊
 
