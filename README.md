@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-![Banner](https://your-image-url.com/your-image.png)
+![Banner]([https://your-image-url.com/your-image.png](https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg))
 
 I'm [Your Name], a tech enthusiast with a passion for turning ideas into reality through code. Welcome to my GitHub playground, where I explore, collaborate, and build fascinating projects that push the boundaries of technology. 🚀
 
