@@ -3,7 +3,7 @@
 ## Well look who decided to drop by! Dont judge me: Chrome Dino Game 🦕
 
 <div align="center">
-  <iframe src="https://elgoog.im/t-rex/" width="100%" height="300"></iframe>
+  <iframe src="https://elgoog.im/t-rex/" width="800" height="300"></iframe>
 </div>
 
 ## About Me 🧑‍💻
