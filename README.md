@@ -1,11 +1,5 @@
 # Hello, World! 👋
 
-## Well look who decided to drop by! Dont judge me: Chrome Dino Game 🦕
-
-<div align="center">
-  <iframe src="https://elgoog.im/t-rex/" width="800" height="300"></iframe>
-</div>
-
 ## About Me 🧑‍💻
 Welcome to my GitHub playground 🚀. I'm Pranav Mishra, a tech enthusiast with a passion for turning ideas into reality through code. I am eager to learn new skills and technologies and to make a positive impact in the rapidly-evolving field of computer science. Join the Collaboration 🌐
 
