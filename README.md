@@ -27,7 +27,7 @@ Let's connect and embark on a journey of tech exploration and innovation! Feel f
 - **Agile Methodologies:** Agile, Scrum, Kanban
 - **Design and Multimedia Tools:** Vivado, Adobe Premiere Pro, Adobe Photoshop
 
-##  Certifications 🏅** 
+##  Certifications 🏅
 
  - AWS (Cloud Practitioner Course)
  - Microsoft (Tech Resilience Program)
