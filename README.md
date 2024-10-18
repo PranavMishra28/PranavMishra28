@@ -5,8 +5,7 @@ Welcome to my GitHub playground 🚀. I'm Pranav Mishra, a tech enthusiast with 
 
 ## Status 🚧
 
-- Working on an Algorithmic Trading Model targeting S&P 500, Dow Jones Industrial Average, and Nasdaq Composite.
-- Building a Trading Bot using Python
+- Coming soon...
 
 ## Collaboration & Contributions 🤝
 
@@ -25,7 +24,16 @@ Let's connect and embark on a journey of tech exploration and innovation! Feel f
 - **Frameworks:** Frontend - React, EJS, Bootstrap, jQuery, and Backend - Express, Node.js
 - **Database Management:** MySQL, MongoDB, Mongoose
 - **Tools/IDEs:** Git, GitHub, VSCode, Burp Suite, Version Control
+- **Agile Methodologies:** Agile, Scrum, Kanban
+- **Design and Multimedia Tools:** Vivado, Adobe Premiere Pro, Adobe Photoshop
 
+##  Certifications 🏅** 
+
+ - AWS (Cloud Practitioner Course)
+ - Microsoft (Tech Resilience Program)
+ - CodePath (Intermediate Cybersecurity Development, Intermediate Android Development, and Intermediate Software Engineering Course)
+ - Udemy (Full Stack Web Development Bootcamp)
+ - Paragon One (VC Deal Sourcing Externship in Collaboration with IgniteXL)
 
 ## GitHub Stats 📈
 
