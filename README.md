@@ -20,12 +20,11 @@ Let's connect and embark on a journey of tech exploration and innovation! Feel f
 
 ## Tech Stack 💻
 
-- **Programming Languages:** Python, C, Java, Kotlin, Solidity, JavaScript, HTML/CSS, Motoko
-- **Frameworks:** Frontend - React, EJS, Bootstrap, jQuery, and Backend - Express, Node.js
-- **Database Management:** MySQL, MongoDB, Mongoose
-- **Tools/IDEs:** Git, GitHub, VSCode, Burp Suite, Version Control
-- **Agile Methodologies:** Agile, Scrum, Kanban
-- **Design and Multimedia Tools:** Vivado, Adobe Premiere Pro, Adobe Photoshop
+- **Languages & Tools**: Python, C, Java, Kotlin, Solidity, JavaScript, HTML/CSS, Bash, Git, VSCode, Burp Suite
+- **Web & App Development**: React, EJS, Bootstrap, jQuery (Frontend); Express, Node.js (Backend)
+- **Data & Big Data**: MySQL, MongoDB, Mongoose, Apache Spark, Hadoop
+- **Hardware Development**: Vivado, Xilinx Vivado FPGA
+- **Agile Methodologies**: Agile, Scrum, Kanban
 
 ##  Certifications 🏅
 
