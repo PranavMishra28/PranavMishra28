@@ -13,8 +13,9 @@ I believe in the power of collaboration and open-source initiatives. Feel free t
 
 ## Get in Touch 📬
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/pm28/](https://www.linkedin.com/in/pm28/)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/pm28/](https://www.linkedin.com/in/pm28/)
 - ✉️ Email: [mishrapranav82@gmail.com](mailto:mishrapranav82@gmail.com)
+- 💼 Portfolio: [https://pranavmishra28.vercel.app/](https://pranavmishra28.vercel.app/)
 
 Let's connect and embark on a journey of tech exploration and innovation! Feel free to drop me a message, and I'll be happy to chat and collaborate. 😊
 
