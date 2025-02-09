@@ -5,7 +5,7 @@ Welcome to my GitHub playground 🚀. I'm Pranav Mishra, a tech enthusiast with 
 
 ## Status 🚧
 
-- Coming soon...
+- Software Develeoper @SPARC Foundation
 
 ## Collaboration & Contributions 🤝
 
