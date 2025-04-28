@@ -73,15 +73,24 @@
 
 ## 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavMishra28&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra28&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PranavMishra28&show_icons=true&theme=dracula&hide_border=true"
+    alt="GitHub Stats"
+    width="50%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra28&layout=compact&theme=dracula&hide_border=true"
+    alt="Top Languages"
+    width="50%" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavMishra28&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PranavMishra28&theme=dracula&area=true&hide_border=true"
+    alt="Contribution Graph"
+    width="80%" />
 </p>
 
 ---
