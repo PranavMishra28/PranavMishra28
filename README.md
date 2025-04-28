@@ -34,9 +34,3 @@ Let's connect and embark on a journey of tech exploration and innovation! Feel f
  - CodePath (Intermediate Cybersecurity Development, Intermediate Android Development, and Intermediate Software Engineering Course)
  - Udemy (Full Stack Web Development Bootcamp)
  - Paragon One (VC Deal Sourcing Externship in Collaboration with IgniteXL)
-
-## GitHub Stats 📈
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavMishra28&show_icons=true&theme=dark&include_all_commits=true)
-
-Thank you for visiting my GitHub profile! Happy coding! 🚀
