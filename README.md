@@ -34,3 +34,33 @@ Let's connect and embark on a journey of tech exploration and innovation! Feel f
  - CodePath (Intermediate Cybersecurity Development, Intermediate Android Development, and Intermediate Software Engineering Course)
  - Udemy (Full Stack Web Development Bootcamp)
  - Paragon One (VC Deal Sourcing Externship in Collaboration with IgniteXL)
+
+##  GitHub Profile 🚀
+
+<p align="left">
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=krushil1&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushil1&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="left">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=krushil1&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+
+  <!-- Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=krushil1&theme=radical&column=5&margin-w=15" alt="Trophies" width="48%"/>
+</p>
+
+<p align="left">
+  <!-- Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=krushil1&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="left">
+  <!-- Visitor Badge & Social -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=krushil1.krushil1" alt="Visitor Badge"/>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat&logo=twitter" alt="Twitter"/></a>
+</p>
