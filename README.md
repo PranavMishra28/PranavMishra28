@@ -14,9 +14,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Senior, B.S. Computer Science** @ Penn State (May 2025)  
+- 🎓 **New Grad, B.S. Computer Science** @ Penn State (May 2025)  
 - 🌌 Building something **stealthy & next-gen** over at [sipup.ca](https://sipup.ca) – stay tuned… 👀  
-- 💼 Software Dev Intern @ SPARC Foundation (React • Node.js • AWS)  
+- 💼 SDE Intern @ SPARC Foundation (React • Node.js • AWS)  
 - 💡 Passionate about **AI/ML**, **Blockchain**, **Cloud**, and **Cyber-sec**
 
 ---
