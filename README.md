@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
----
-
 ### 💻 Web & App Development
 
 #### ▸ Frontend
@@ -60,8 +58,6 @@
   <img src="https://img.shields.io/badge/Chroma-00B1E5?style=flat&logo=chromadb&logoColor=white" alt="Chroma"/>
 </p>
 
----
-
 ### ⚙️ DevOps & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
@@ -70,8 +66,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/n8n-ef6c00?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
-
----
 
 ### 🧠 AI & Data Engineering
 <p align="center">
@@ -84,8 +78,6 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat&logo=python&logoColor=white" alt="BeautifulSoup"/>
   <img src="https://img.shields.io/badge/PyPDF2-3776AB?style=flat&logo=python&logoColor=white" alt="PyPDF2"/>
 </p>
-
----
 
 ### 🧰 Developer Tools & IDEs
 <p align="center">
