@@ -22,8 +22,9 @@
 ---
 
 ## 🛠 My Tech Arsenal
+
+### 🧠 Programming Languages  
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
@@ -35,8 +36,12 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
+---
+
+### 💻 Web & App Development
+
+#### ▸ Frontend
 <p align="center">
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Vite.js-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite.js"/>
@@ -46,41 +51,57 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery"/>
 </p>
 
+#### ▸ Backend & Databases
 <p align="center">
-  <!-- Backend & DB -->
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Chroma-00B1E5?style=flat&logo=chromadb&logoColor=white" alt="Chroma"/>
 </p>
 
+---
+
+### ⚙️ DevOps & Infrastructure
 <p align="center">
-  <!-- Tools & Tech -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF9800?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=orange" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/n8n-ef6c00?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
+</p>
+
+---
+
+### 🧠 AI & Data Engineering
+<p align="center">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
-  <img src="https://img.shields.io/badge/Vivado_FPG­A-F9A03C?style=flat&logo=xilinx&logoColor=white" alt="Vivado FPGA"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=openai&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=flat&logo=openai&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat&logo=python&logoColor=white" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/PyPDF2-3776AB?style=flat&logo=python&logoColor=white" alt="PyPDF2"/>
+</p>
+
+---
+
+### 🧰 Developer Tools & IDEs
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF9800?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Object­ive-C-438EFF?style=flat&logo=apple&logoColor=white" alt="Objective C"/>
+  <img src="https://img.shields.io/badge/Objective_C-438EFF?style=flat&logo=apple&logoColor=white" alt="Objective C"/>
+  <img src="https://img.shields.io/badge/Vivado_FPGA-F9A03C?style=flat&logo=xilinx&logoColor=white" alt="Vivado FPGA"/>
 </p>
 
 ---
 
 ## 📊 GitHub Activity & Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PranavMishra28&show_icons=true&theme=dracula&hide_border=true"
-    alt="GitHub Stats"
-    width="50%" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra28&layout=compact&theme=dracula&hide_border=true"
-    alt="Top Languages"
-    width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavMishra28&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra28&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="50%"/>
 </p>
 
 ---
