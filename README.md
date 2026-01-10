@@ -17,7 +17,7 @@
   <a href="mailto:mishrapranav82@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://pranavmishra28.vercel.app/">
+  <a href="https://pranavmishra28.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel" />
   </a>
 </p>
