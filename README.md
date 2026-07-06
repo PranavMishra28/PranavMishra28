@@ -16,18 +16,18 @@ pranav@harper ~ $ neofetch
     ██████╗ ███╗   ███╗      pranav @ san francisco
     ██╔══██╗████╗ ████║      ─────────────────────────────────────
     ██████╔╝██╔████╔██║      role      forward deployed engineer, harper (yc w25)
-    ██╔═══╝ ██║╚██╔╝██║      uptime    400+ prs · 30+ prod repos · last 7 months
-    ██║     ██║ ╚═╝ ██║      kernel    voice copilots, temporal pipelines, event backbones
+    ██╔═══╝ ██║╚██╔╝██║      uptime    400+ prs · 30+ prod repos · since dec '25
+    ██║     ██║ ╚═╝ ██║      kernel    voice copilots, coding agents, event backbones
     ╚═╝     ╚═╝     ╚═╝      shell     claude code, codex, cursor
                              prev      salespatriot (yc w25) · sail · psu cs '25
 ```
 
-I'm a forward deployed engineer at Harper, a YC-backed company doing AI for commercial
-insurance ($54M Series A, Series B underway). I build the agents our operators use every
-day: a realtime voice copilot for intake, a background coding agent that drives work from
-research through integration testing, and the pipelines and evals underneath both. The
-models were never the bottleneck. Getting an agent to behave when a carrier sends a
-scanned PDF sideways at 4:55pm on a Friday, that's the job.
+Insurance has always run on agents. I build the new kind, at Harper (YC W25,
+$47M Series A, Series B underway). Mine are Dumbly, the realtime voice copilot our
+intake operators live in, and DaVinci, a background coding agent that drives work
+from research through integration testing, plus the pipelines and evals underneath
+both. The models were never the bottleneck. Getting an agent to behave when a
+carrier sends a scanned PDF sideways at 4:55pm on a Friday, that's the job.
 
 ## how i work
 
@@ -96,7 +96,7 @@ scanned PDF sideways at 4:55pm on a Friday, that's the job.
 ```yaml
 # toolchain.yaml
 langs:         [python, typescript, go, java, sql]
-agents:        [claude + mcp, langgraph, autogen, openai realtime, evals]
+agents:        [claude agent sdk + mcp, langgraph, autogen, openai realtime, evals]
 voice:         [openai realtime api, twilio, elevenlabs]
 backbone:      [temporal, nats, trigger.dev, n8n, rest + graphql]
 data:          [postgres + pgvector, supabase, qdrant, chroma, mongodb]
