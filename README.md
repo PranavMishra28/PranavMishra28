@@ -50,13 +50,23 @@ carrier sends a scanned PDF sideways at 4:55pm on a Friday, that's the job.
 
 ## open source
 
-**in review:**
+five open PRs and counting, all upstream of things I run in prod:
 
+- [anthropics/claude-agent-sdk-python #1087](https://github.com/anthropics/claude-agent-sdk-python/pull/1087) —
+  list-form system prompts crashed deep in the subprocess transport with a cryptic
+  AttributeError, after the money was already spent. now fails fast at construction
+  with an error that tells you what to do instead
 - [livekit/agents #6321](https://github.com/livekit/agents/pull/6321) — a stored tool call
   with unparseable arguments could crash every later turn of a voice agent. fix + tests
   for the Anthropic/Google/AWS formatters
 - [inspect_ai #4418](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4418) — hidden
   states were silently dropped from eval logs as `None`. now they survive serialization
+- [simonw/datasette #2826](https://github.com/simonw/datasette/pull/2826) — text and
+  composite primary keys created through the JSON API were silently nullable, producing
+  rows you can't view or delete. now NOT NULL at creation
+- [python-attrs/attrs #1584](https://github.com/python-attrs/attrs/pull/1584) —
+  include/exclude filters matched attributes by equality, so excluding one class's field
+  could silently drop an identical field on an unrelated class. now matched by identity
 
 **mine:**
 
@@ -66,8 +76,7 @@ carrier sends a scanned PDF sideways at 4:55pm on a Friday, that's the job.
 | [autogen-distributed-agents](https://github.com/PranavMishra28/autogen-distributed-agents) | 20 concurrent agents on a gRPC runtime critiquing each other's ideas |
 | [langgraph-sidekick-assistant](https://github.com/PranavMishra28/langgraph-sidekick-assistant) | worker/evaluator loop with memory, browsing, and a python REPL |
 
-**contributing next:** [claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) ·
-[openai-agents-python](https://github.com/openai/openai-agents-python) ·
+**contributing next:** [openai-agents-python](https://github.com/openai/openai-agents-python) ·
 [pydantic-ai](https://github.com/pydantic/pydantic-ai) ·
 [semantic-conventions-genai](https://github.com/open-telemetry/semantic-conventions-genai)
 
@@ -111,7 +120,7 @@ daily_drivers: [claude code, codex, cursor]
 <div align="center">
 <a href="https://github.com/PranavMishra28"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavMishra28&theme=tokyo-night&hide_border=true&area=true&custom_title=contributions%2C%20last%2030%20days" width="97%"></a>
 
-<sub>most of my work lives in private org repos. the graph above is what leaks through.</sub>
+<sub>most of my work lives in private org repos. the graph is what leaks through; the five PRs above are the part that doesn't have to.</sub>
 </div>
 
 ---
