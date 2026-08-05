@@ -50,23 +50,7 @@ carrier sends a scanned PDF sideways at 4:55pm on a Friday, that's the job.
 
 ## open source
 
-five open PRs and counting, all upstream of things I run in prod:
-
-- [anthropics/claude-agent-sdk-python #1087](https://github.com/anthropics/claude-agent-sdk-python/pull/1087) —
-  list-form system prompts crashed deep in the subprocess transport with a cryptic
-  AttributeError, after the money was already spent. now fails fast at construction
-  with an error that tells you what to do instead
-- [livekit/agents #6321](https://github.com/livekit/agents/pull/6321) — a stored tool call
-  with unparseable arguments could crash every later turn of a voice agent. fix + tests
-  for the Anthropic/Google/AWS formatters
-- [inspect_ai #4418](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4418) — hidden
-  states were silently dropped from eval logs as `None`. now they survive serialization
-- [simonw/datasette #2826](https://github.com/simonw/datasette/pull/2826) — text and
-  composite primary keys created through the JSON API were silently nullable, producing
-  rows you can't view or delete. now NOT NULL at creation
-- [python-attrs/attrs #1584](https://github.com/python-attrs/attrs/pull/1584) —
-  include/exclude filters matched attributes by equality, so excluding one class's field
-  could silently drop an identical field on an unrelated class. now matched by identity
+https://pranavmishra.app/projects
 
 **mine:**
 
