@@ -102,9 +102,10 @@ daily_drivers: [claude code, codex, cursor]
 ## numbers
 
 <div align="center">
-<a href="https://github.com/PranavMishra28"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavMishra28&theme=tokyo-night&hide_border=true&area=true&custom_title=contributions%2C%20last%2030%20days" width="97%"></a>
-
-<sub>most of my work lives in private org repos. the graph is what leaks through; the five PRs above are the part that doesn't have to.</sub>
+<a href="https://github.com/PranavMishra28">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavMishra28&theme=tokyo-night&hide_border=true&area=true&custom_title=contributions%2C%20last%2030%20days" width="97%">
+</a>
+<sub> most of my work lives in private org repos. the graph is what leaks through; the five PRs above are the part that doesn't have to. </sub>
 </div>
 
 ---
