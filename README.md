@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79C0FF&center=true&vCenter=true&width=800&height=70&lines=%24+whoami;pranav+mishra;fde+%40+harper+(yc+w25);voice+agents+that+take+the+call;a+coding+agent+on+one+laptop;receipts+%3E+demos">
-  <img alt="pranav mishra" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=0969DA&center=true&vCenter=true&width=800&height=70&lines=%24+whoami;pranav+mishra;fde+%40+harper+(yc+w25);voice+agents+that+take+the+call;a+coding+agent+on+one+laptop;receipts+%3E+demos">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=79C0FF&center=true&vCenter=true&width=800&height=70&lines=%24+whoami;pranav+mishra;forward+deployed+engineer+at+harper+(yc+w25);i+like+putting+software;where+software+has+never+worked">
+  <img alt="pranav mishra" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=0969DA&center=true&vCenter=true&width=800&height=70&lines=%24+whoami;pranav+mishra;forward+deployed+engineer+at+harper+(yc+w25);i+like+putting+software;where+software+has+never+worked">
 </picture>
 
 <a href="https://pranavmishra.app"><img src="https://img.shields.io/badge/portfolio-pranavmishra.app-58a6ff?style=flat-square"></a>
@@ -17,12 +17,14 @@ pranav@harper ~ $ neofetch
     ██████╗ ███╗   ███╗      pranav @ san francisco
     ██╔══██╗████╗ ████║      ─────────────────────────────────────────────
     ██████╔╝██╔████╔██║      role      forward deployed engineer, harper (yc w25)
-    ██╔═══╝ ██║╚██╔╝██║      uptime    1,100+ prs · 900+ merged · 60+ repos since oct '25
+    ██╔═══╝ ██║╚██╔╝██║      uptime    400+ prs since oct '25
     ██║     ██║ ╚═╝ ██║      kernel    voice agents, local coding agents, agent reliability
     ╚═╝     ╚═╝     ╚═╝      upstream  merged into openai-agents-python, livekit/agents, inspect_ai
                              shell     claude code, codex, cursor, opencode
                              prev      salespatriot (yc w25) · sail · psu cs '25
 ```
+
+**Forward deployed engineer at Harper (YC W25). I like putting software where software has never worked.**
 
 Insurance has always run on agents. I build the new kind, at [Harper](https://www.harperinsure.com)
 (YC W25, $47M across Seed and Series A). First an intake copilot our operators live in, now a voice
@@ -36,7 +38,7 @@ and the benchmark rig that decides when it's allowed to claim it's good.
 ## now
 
 ```diff
-+ kryn        v1 shipped. next: seal a holdout, climb the research ladder toward frontier-adjacent on a 9B model
++ kryn        v1 shipped supervised. first benchmark baseline: no overall uplift yet. next: seal a holdout
 + voice       live calls: realtime model talks, deepgram listens, code owns hang-ups, transfers, confirmations
 + irrevon     waiting on a preregistration freeze before the first confirmatory benchmark run
 + upstream    4 merged, 7 in review across the openai, anthropic, livekit and python ecosystems
@@ -47,11 +49,7 @@ and the benchmark rig that decides when it's allowed to claim it's good.
 | system | built with | what happened |
 |---|---|---|
 | voice intake agent | LiveKit, OpenAI Realtime, Deepgram Nova-3, SIP | takes intake calls alone. I own how calls end (hang-up, transfer, holds) and the confirmation loop where callers fix their own details before anything is filed. [write-up](https://pranavmishra.app/case-studies/voice-intake-agent) |
-| Dumbly: realtime intake copilot | OpenAI Realtime API, Electron, packet-recommendation rules engine | 20+ operators, 300-400 intakes/day, manual intake down ~70% |
-| lead lifecycle pipeline | Temporal (python + go workers), Postgres | raw lead → qualified opportunity → submission handoff. dual-write migrations, typed backfills, no-downtime cutover |
-| event backbone | schema registry, go SDK, NATS | event contracts for 5+ services. a schema change through every consumer in one day |
-| growth attribution stack | GCLID/msclkid capture, offline conversions, Customer.io | ad-click to closed-policy attribution; lifecycle campaigns fired off production events |
-| reliability layer | otel, logfire, feature flags | fail-closed guards on anything customer-facing. about 50 PRs nobody sees, which is the point |
+| intake copilot | OpenAI Realtime API | Built a voice intake copilot that 20+ operators use across 300–400 intakes a day, cutting manual intake work by about 70%. |
 
 ## built in the open
 
