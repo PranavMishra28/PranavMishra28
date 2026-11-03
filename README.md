@@ -41,7 +41,7 @@ and the benchmark rig that decides when it's allowed to claim it's good.
 + kryn        v1 shipped supervised. first benchmark baseline: no overall uplift yet. next: seal a holdout
 + voice       live calls: realtime model talks, deepgram listens, code owns hang-ups, transfers, confirmations
 + irrevon     waiting on a preregistration freeze before the first confirmatory benchmark run
-+ upstream    4 merged, 7 in review across the openai, anthropic, livekit and python ecosystems
++ upstream    4 merged, 6 in review across the openai, anthropic, livekit and python ecosystems
 ```
 
 ## shipping at harper
@@ -58,6 +58,7 @@ and the benchmark rig that decides when it's allowed to claim it's good.
 | [**KRYN**](https://github.com/PranavMishra28/kryn) | local coding workspace for Apple Silicon: OpenCode + a guarded Qwen 9B on oMLX, plus a preregistered benchmark rig (matched pairs, hidden graders, SWE-bench + Terminal-Bench subsets). [write-up](https://pranavmishra.app/case-studies/kryn) | ![release](https://img.shields.io/github/v/release/PranavMishra28/kryn?style=flat-square&label=&color=58a6ff) supervised |
 | [**Irrevon**](https://github.com/PranavMishra28/irrevon) | reconciliation for irreversible agent actions: an identity the model can't regenerate, "ambiguous" as a real state, settlement from the destination's own evidence. [write-up](https://pranavmishra.app/case-studies/irrevon) | ![pypi](https://img.shields.io/pypi/v/irrevon?style=flat-square&label=&color=58a6ff) alpha |
 | [**EONFOLK**](https://github.com/PranavMishra28/eonfolk) | deterministic civilization game where only one layer can write the world. models propose, Reality decides, a Chronicle that can't overclaim. [write-up](https://pranavmishra.app/case-studies/eonfolk) | pre-alpha |
+| [**agents-md-budget**](https://github.com/PranavMishra28/agents-md-budget) | shows which AGENTS.md instructions codex silently truncates or drops: files in load order, the running byte total against the 32 KiB budget, and the exact text that never reaches the model. exits 1 for ci and pre-commit | ![release](https://img.shields.io/github/v/release/PranavMishra28/agents-md-budget?style=flat-square&label=&color=58a6ff) |
 | [**Interlock**](https://github.com/PranavMishra28/interlock) | turns a decision made in passing in Slack into one owner-approved, fail-closed action with a checkable receipt | hackathon build |
 
 ## upstream
@@ -69,7 +70,7 @@ and the benchmark rig that decides when it's allowed to claim it's good.
 | [livekit/agents](https://github.com/livekit/agents) | [tolerate unparseable stored tool-call arguments](https://github.com/livekit/agents/pull/6321) | ![merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
 | [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) | [fix hidden_states recorded as null in eval logs](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4418) | ![merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
 
-<sub>in review: <a href="https://github.com/anthropics/anthropic-sdk-python/pull/1750">anthropic-sdk-python#1750</a> · <a href="https://github.com/anthropics/anthropic-sdk-python/pull/1751">#1751</a> · <a href="https://github.com/anthropics/claude-agent-sdk-python/pull/1087">claude-agent-sdk-python#1087</a> · <a href="https://github.com/openai/openai-python/pull/3505">openai-python#3505</a> · <a href="https://github.com/openai/gpt-oss/pull/252">gpt-oss#252</a> · <a href="https://github.com/simonw/datasette/pull/2826">datasette#2826</a> · <a href="https://github.com/python-attrs/attrs/pull/1584">attrs#1584</a> · <a href="https://pranavmishra.app/projects">all of it</a></sub>
+<sub>in review: <a href="https://github.com/anthropics/anthropic-sdk-python/pull/1750">anthropic-sdk-python#1750</a> · <a href="https://github.com/anthropics/anthropic-sdk-python/pull/1751">#1751</a> · <a href="https://github.com/anthropics/claude-agent-sdk-python/pull/1087">claude-agent-sdk-python#1087</a> · <a href="https://github.com/openai/gpt-oss/pull/252">gpt-oss#252</a> · <a href="https://github.com/simonw/datasette/pull/2826">datasette#2826</a> · <a href="https://github.com/python-attrs/attrs/pull/1584">attrs#1584</a> · <a href="https://pranavmishra.app/projects">all of it</a></sub>
 
 ## writing
 
